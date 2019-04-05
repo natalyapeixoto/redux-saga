@@ -4,7 +4,7 @@ import {
     ageDownAsync,
     ageUpAsync
 } from './saga'
-n
+
 
 
 describe('watchAgeUp', () => {
